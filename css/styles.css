@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.profile-image {
+  width: 250px;
+  border-radius: 50%;
+}
+
+.hero{
+  background-color: #e4f9f5;
+  position: relative;
+  margin: 0;
+}
+
+.carousel-type{
+  color: #000;
+}
+
+.img-center{
+  margin: auto;
+  text-align: center;
+  display: flex;
+}
+
+.zentriert{
+  align-items:  center;
+}
+
+.contact{
+  color: white;
+}
+
+.foto{
+  height: 300px;
+  width: 200px;
+}
